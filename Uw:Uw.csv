@@ -1,4 +1,4 @@
-n_sim,p_max,w_max,alpha,beta,T,seed,time,obj,constr,schedule,deferred
+n_sim,p_max,w_max,gamma,delta,T,seed,time,obj,constr,schedule,deferred
 25,20,10,1,0.3,50,0,0.0016021728515625,-99999,-99999,[],[]
 25,20,10,1,0.3,50,1,0.0016882419586181,-99999,-99999,[],[]
 25,20,10,1,0.3,50,2,0.0013611316680908,-99999,-99999,[],[]
